@@ -39,16 +39,16 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="42" height="42" /></a>
 </p>
-<div style="display: flex; justify-content: center; gap: 20px;">
-<p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=AdemBenKhedher&show_icons=true&locale=en" alt="AdemBenKhedher"  />
-  </p>
-  <p>
+
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <div style="display: flex; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=AdemBenKhedher&show_icons=true&locale=en" alt="AdemBenKhedher" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdemBenKhedher&" alt="AdemBenKhedher" />
-  </p>
-</p>
+  </div>
+  
+  <img src="https://via.placeholder.com/150" alt="Right Image" />
 </div>
+
 
 
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdemBenKhedher" alt="AdemBenKhedher" /></a></p>
