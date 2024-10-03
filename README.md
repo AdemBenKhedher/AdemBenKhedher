@@ -40,13 +40,14 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="42" height="42" /></a>
 </p>
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <div style="display: flex; gap: 20px;">
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=AdemBenKhedher&show_icons=true&locale=en" alt="AdemBenKhedher" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdemBenKhedher&" alt="AdemBenKhedher" />
-  </div>
-  
-  <img src="https://via.placeholder.com/150" alt="Right Image" />
 </div>
 
 
