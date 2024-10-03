@@ -27,11 +27,14 @@
   </a>
 </p>
 
+<p>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=AdemBenKhedher&show_icons=true&locale=en" alt="AdemBenKhedher"  />
- 
+  </p>
+  <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdemBenKhedher&" alt="AdemBenKhedher" />
   </p>
+</p>
 
 
 
