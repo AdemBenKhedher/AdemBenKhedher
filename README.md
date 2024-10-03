@@ -41,13 +41,8 @@
 </p>
 
 
-<img  src="https://drive.google.com/file/d/1XzOXfKrANHXj_Yjy75cE6WkqIS2qLywd/view?usp=sharing"  />
+<img  src="https://drive.google.com/file/d/1XzOXfKrANHXj_Yjy75cE6WkqIS2qLywd/view"  />
 
-<iframe src="https://drive.google.com/file/d/1XzOXfKrANHXj_Yjy75cE6WkqIS2qLywd/preview" 
-        width="640" 
-        height="480" 
-        allow="autoplay">
-</iframe>
 
 ###
 
