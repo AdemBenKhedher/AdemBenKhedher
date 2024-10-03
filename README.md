@@ -41,7 +41,7 @@
 </p>
 
 
-<img align="right" height="150" src="https://drive.google.com/file/d/1XzOXfKrANHXj_Yjy75cE6WkqIS2qLywd/view?usp=sharing"  />
+<img  src="https://drive.google.com/file/d/1XzOXfKrANHXj_Yjy75cE6WkqIS2qLywd/view?usp=sharing"  />
 
 
 ###
