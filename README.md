@@ -4,10 +4,11 @@
 <h2>⚡️ Where to find me</h2>
 
 
-<p><a target="_blank" href="https://www.linkedin.com/in/adem-benkhedher" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+
+<p><a target="_blank" href="https://www.linkedin.com/in/adem-benkhedher" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" height="35"  alt="linkedin" /></a>
 
 <a target="_blank" href="https://adembenkhedher.fr" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/website-Visit%20My%20Site-brightblue?style=for-the-badge&logo=internet-explorer&logoColor=white"alt="website" /></a>
+    <img src="https://img.shields.io/badge/website-Visit%20My%20Site-brightblue?style=for-the-badge&logo=internet-explorer&logoColor=white"alt="website" height="35" /></a>
 <a target="_blank" href="https://www.youtube.com/@adembenkhedher" style="display: inline-block;">
       <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
 <a target="_blank" href="adembenkhdher@gmail.com" style="display: inline-block;">
