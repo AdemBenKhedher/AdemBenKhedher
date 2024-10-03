@@ -1,6 +1,6 @@
-<h1>img</h1>
-    <img src="https://media.licdn.com/dms/image/v2/D4E16AQHPEOihgMdI2A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727791829623?e=1733356800&v=beta&t=KxcJXRE1IxLmOwIxCATGz7kL8OVYAufvQlKGmkPROGs" alt="AdemBenKhedherbanner" />
-<p>As a full-stack junior developer currently pursuing a web development bachelor's degree (But MMI) until 2025, I'm looking for a 4-month internship starting in March 2025 for my final year.</p>
+
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQHPEOihgMdI2A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727791829623?e=1733356800&v=beta&t=KxcJXRE1IxLmOwIxCATGz7kL8OVYAufvQlKGmkPROGs" alt="AdemBenKhedherbanner" />
+<p>Hi 👋, I'm Adem a full-stack junior developer currently pursuing a web development bachelor's degree (But MMI) until 2025, I'm looking for a 4-month internship starting in March 2025 for my final year.</p>
 <h2>⚡️ Where to find me</h2>
 
 <p><a target="_blank" href="https://www.linkedin.com/in/adem-benkhedher" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
