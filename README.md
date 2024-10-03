@@ -3,12 +3,17 @@
 <p>Hi 👋, I'm Adem a full-stack junior developer currently pursuing a web development bachelor's degree (But MMI) until 2025, I'm looking for a 4-month internship starting in March 2025 for my final year.</p>
 <h2>⚡️ Where to find me</h2>
 
+
 <p><a target="_blank" href="https://www.linkedin.com/in/adem-benkhedher" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 
 <a target="_blank" href="https://adembenkhedher.fr" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/website-Visit%20My%20Site-brightblue?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="website" />
-  </a>
+    <img src="https://img.shields.io/badge/website-Visit%20My%20Site-brightblue?style=for-the-badge&logo=internet-explorer&logoColor=white"alt="website" /></a>
+<a target="_blank" href="https://www.youtube.com/@adembenkhedher" style="display: inline-block;">
+      <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
+<a target="_blank" href="adembenkhdher@gmail.com" style="display: inline-block;">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
 </p>
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
