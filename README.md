@@ -40,7 +40,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="42" height="42" /></a>
 </p>
 
-<img align="right" height="150" src="https://drive.google.com/file/d/1XzOXfKrANHXj_Yjy75cE6WkqIS2qLywd/preview"  />
+<img align="right" height="150" src=""  />
 
 ###
 
