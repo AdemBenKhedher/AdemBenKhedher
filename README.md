@@ -21,8 +21,9 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/adem-benkhedher" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p>
+  
   <a target="_blank" href="https://adembenkhedher.fr" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/website-Visit%20My%20Site-brightgreen?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="website" />
+    <img src="https://img.shields.io/badge/website-Visit%20My%20Site-brightblue?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="website" />
   </a>
 </p>
 
@@ -35,9 +36,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdemBenKhedher&" alt="AdemBenKhedher" />
   </p>
 </div>
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdemBenKhedher&show_icons=true&locale=en" alt="AdemBenKhedher" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdemBenKhedher&" alt="AdemBenKhedher" />
-</div>
+
 
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdemBenKhedher" alt="AdemBenKhedher" /></a></p>
