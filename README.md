@@ -26,13 +26,10 @@
   </a>
 </p>
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AdemBenKhedher&show_icons=true&locale=en" alt="AdemBenKhedher" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdemBenKhedher&" alt="AdemBenKhedher" /></p>
-</div>
+
 <div style="display: flex; justify-content: center; gap: 20px;">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=AdemBenKhedher&show_icons=true&locale=en" alt="AdemBenKhedher" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AdemBenKhedher&show_icons=true&locale=en" alt="AdemBenKhedher"  style="width:50%;"/>
   </p>
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdemBenKhedher&" alt="AdemBenKhedher" />
