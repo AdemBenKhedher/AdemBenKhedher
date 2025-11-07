@@ -1,6 +1,6 @@
 
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQHPEOihgMdI2A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727791829623?e=1751500800&v=beta&t=3rSR2exqGdTJprIyZpcGL5sZQ5q99oayT8_FzDxSSCY" alt="AdemBenKhedherbanner" />
-<p>Hi 👋, I'm Adem a full-stack junior developer currently pursuing a web development bachelor's degree (But MMI) until 2025, I'm looking for a 4-month internship starting in March 2025 for my final year.</p>
+<p>Hi 👋, I'm Adem a full-stack junior developer currently pursuing a web development bachelor's degree (But MMI) until 2025, I'm looking for a 2 years Apprenticeship starting in  2025/2026 for my master degree.</p>
 
 <h2>⚡️ Where to find me</h2>
 
